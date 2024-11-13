@@ -1,0 +1,24 @@
+{
+  "welcome_top": "Welcome",
+  "welcome_bottom": "to My Notes",
+  "fingerprint_text": "use your fingerprint to log in",
+  "authentificate": "Authentificate",
+
+  "app_bar_txt": "Notes",
+  "no_notes": "You don`t have any notes yet!",
+
+  "delete_title": "Delete Note?",
+  "delete_content": "Are you sure you want to delete this note?",
+  "delete_btn_cancel": "CANCEL",
+  "delete_btn_delete": "DELETE",
+ 
+  "add_note": "Add a note",
+  "edit_note": "Edit note",
+  "hint_title": "Title",
+  "label_title": "Note title",
+  "hint_description": "Type here the note",
+  "label_description": "Note description",
+  "save_txt": "Save",
+  "edit_txt": "Edit"
+
+}

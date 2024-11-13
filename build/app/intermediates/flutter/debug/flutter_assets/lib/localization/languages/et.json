@@ -1,0 +1,23 @@
+{
+  "welcome_top": "Tere tulemast",
+  "welcome_bottom": "Minu märkmetesse",
+  "fingerprint_text": "kasutage sisselogimiseks oma sõrmejälge",
+  "authentificate": "Autentimine",
+
+  "app_bar_txt": "Märkmed",
+  "no_notes": "Teil pole veel märkmeid!",
+
+  "delete_title": "Kustuta märkus?",
+  "delete_content": "Kas olete kindel, et soovite selle märkme kustutada?",
+  "delete_btn_cancel": "TÜHISTA",
+  "delete_btn_delete": "KUSTUTA",
+ 
+  "add_note": "Lisa märkus",
+  "edit_note": "Redigeeri märkust",
+  "hint_title": "Pealkiri",
+  "label_title": "Märkme pealkiri",
+  "hint_description": "Sisestage siia märkus",
+  "label_description": "Märkme kirjeldus",
+  "save_txt": "Salvesta",
+  "edit_txt": "Redigeeri"
+}

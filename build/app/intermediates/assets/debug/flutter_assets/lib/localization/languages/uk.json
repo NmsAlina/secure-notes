@@ -1,0 +1,23 @@
+{
+  "welcome_top": "Ласкаво просимо",
+  "welcome_bottom": "до Моїх нотаток",
+  "fingerprint_text": "використовуйте свій відбиток пальця для входу",
+  "authentificate": "Аутентифікація",
+
+  "app_bar_txt": "Нотатки",
+  "no_notes": "У вас ще немає нотаток!",
+
+  "delete_title": "Видалити нотатку?",
+  "delete_content": "Ви впевнені, що хочете видалити цю нотатку?",
+  "delete_btn_cancel": "СКАСУВАТИ",
+  "delete_btn_delete": "ВИДАЛИТИ",
+ 
+  "add_note": "Додати нотатку",
+  "edit_note": "Редагувати нотатку",
+  "hint_title": "Заголовок",
+  "label_title": "Заголовок нотатки",
+  "hint_description": "Тут введіть нотатку",
+  "label_description": "Опис нотатки",
+  "save_txt": "Зберегти",
+  "edit_txt": "Редагувати"
+}

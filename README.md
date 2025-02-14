@@ -1,3 +1,3 @@
 # secure-notes
 
-stay secure
+This app is made to save your privat info and notes in secure place
